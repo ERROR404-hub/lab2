@@ -15,7 +15,7 @@
 * `whois`
     
 </font>
-<font size="5">Исследуемые провайдеры DNS:</font><br>
+<font size="5">**Исследуемые провайдеры DNS:**</font><br>
 <font size="4">
 
 * `MTS PJSC`
